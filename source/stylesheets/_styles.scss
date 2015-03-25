@@ -33,6 +33,14 @@ body{
 .text-shadow{
   text-shadow: 0px 0px 10px #000;
 }
+.album-wrap{
+  margin-top: 25px;
+  text-align: center;
+  img{
+    border: 1px white solid;
+    max-width: 263px;
+  }
+}
 @media (max-width: 768px){
   .promo{
     margin-top: 60px;

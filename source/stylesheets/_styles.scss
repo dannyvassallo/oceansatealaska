@@ -1,0 +1,40 @@
+body{
+  background-color: black;
+  color: white;
+  h1,h2,h3,h4{
+    font-family: 'Playfair Display', serif;
+    letter-spacing: 2px;
+  }
+}
+.full-w{
+  width: 100%;
+}
+#masthead{
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  z-index: -1;
+  text-align: center;
+}
+.divider{
+  height: 1px;
+  width: 100%;
+  background-color: white;
+  margin: 2% auto;
+  max-width: 1000px;
+}
+.promo{
+  max-width: 1600px;
+}
+.logo{
+  max-width: 900px;
+}
+.text-shadow{
+  text-shadow: 0px 0px 10px #000;
+}
+@media (max-width: 768px){
+  .promo{
+    margin-top: 60px;
+  }
+}

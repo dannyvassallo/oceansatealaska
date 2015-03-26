@@ -36,13 +36,63 @@ body{
 .album-wrap{
   margin-top: 25px;
   text-align: center;
-  img{
+  .album{
     border: 1px white solid;
     max-width: 263px;
   }
 }
+.itunes{
+  margin-top: 20px;
+  max-width: 175px;
+}
+.album-info{
+  margin-top: 30px;
+  h1,h2,h3,h4{
+    margin: 1px auto !important;
+  }
+}
+@media (max-width: 1199px){
+  .album-info{
+    margin-top: 0px;
+  }
+}
+@media (max-width: 992px){
+  .album-info{
+    margin-top: 0px;
+    h1{
+      font-size: 30px;
+    }
+    h2{
+      font-size: 15px;
+    }
+  }
+}
 @media (max-width: 768px){
   .promo{
-    margin-top: 60px;
+    margin-top: 110px;
   }
+  .album-info{
+    margin-top: 50px;
+  }
+}
+@media (max-width: 462px){
+  .album-info{
+    margin-top: 0px;
+  }
+}
+@media (max-width: 462px){
+  .promo{
+    margin-top: 130px;
+  }
+}
+@media (max-width: 422px){
+  .album-info{
+    h1{
+      font-size: 25px;
+    }
+  }
+}
+.spacer{
+  height: 50px;
+  width: 100%;
 }

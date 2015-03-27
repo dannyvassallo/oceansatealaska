@@ -2,10 +2,10 @@ $(document).ready(function($){
     $('#social-stream').dcSocialStream({
         feeds: {
             twitter: {
-                id: '#LOSTISLES'
+                id: '#LOSTISLES,#432CREW',
             },
             instagram: {
-                id: '#LOSTISLES',
+                id: '#LOSTISLES,#432CREW',
                 accessToken: '9803372.c8bdcae.5ad7b6d157ba409b82b52b3eef6f4ae4',
                 clientId: 'c8bdcae8e15f4c71a29ad59c7eab3fe7',
                 comments: 3,

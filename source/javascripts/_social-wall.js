@@ -6,8 +6,8 @@ $(document).ready(function($){
             },
             instagram: {
                 id: '#LOSTISLES,#432CREW',
-                accessToken: '9803372.c8bdcae.5ad7b6d157ba409b82b52b3eef6f4ae4',
-                clientId: 'c8bdcae8e15f4c71a29ad59c7eab3fe7',
+                accessToken: '9803372.e614fac.a75de7409eed4cd78cd41a78ba8a8af9',
+                clientId: 'c4371ecd726b4fe69c5fa1ffd108052a',
                 comments: 3,
                 likes: 10,
             }

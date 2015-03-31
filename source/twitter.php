@@ -1,9 +1,9 @@
 <?php
 // SET YOUR TWITTER API DETAILS HERE
-$consumer_key = "RRobDTRNz7dVNdwQ2mavtH5yY";
-$consumer_secret = "koDWAdqAmkn32dnD3tdR1KZffklYrIzsCucTuOwlTLNGp6FNk1";
-$oauth_access_token = "18792825-a2sQulpJ6YKwRg2L9XxKHiAY2hgF9oko0KOPPhLdw";
-$oauth_access_token_secret = "WXvONTCTAweSrfuaj3mNV6rG6mgHgEjoqzwUPVvRkxqx6";
+$consumer_key = "LWvuKKwsSCQwyfzfnPN77LI9w";
+$consumer_secret = "DvsCfCkli00lvkIRWx4Gyl54FHnMmaTSk7jso27u9dhkx43OgD";
+$oauth_access_token = "18792825-o1poGVpTVsrv4uEzNjgVRZVOLMHqrcPDougbcGJzA";
+$oauth_access_token_secret = "VqkuNFGS397zUEUi4Jv36TnVpHZdnAviqCjAC9gHTmTr6";
 
 // DO NOT EDIT BELOW THIS LINE
 switch($_GET['url'])
